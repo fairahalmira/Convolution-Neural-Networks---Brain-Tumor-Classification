@@ -78,8 +78,6 @@ Proyek ini bertujuan untuk mengembangkan sistem klasifikasi tumor otak menggunak
 ## 🎯 Hasil Prediksi
 
 ### Contoh Output
-#### Tumor Terdeteksi:
-![Contoh Hasil Deteksi Tumor](assets/tumor_detected_example.png)
 
 #### Tidak Ada Tumor:
 ![Contoh Hasil Deteksi Non-Tumor](assets/no_tumor_example.png)
